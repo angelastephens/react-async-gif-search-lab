@@ -24,3 +24,5 @@ class GifSearch extends React.Component {
     }
 
 }
+
+export default GifSearch
